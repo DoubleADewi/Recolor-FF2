@@ -1,0 +1,21 @@
+title: Recolor-FF2
+originalAuthor: DoubleADewi
+description: Recolors Sora to the ukraine flag.
+
+assets: 
+- name: remastered\obj\H_EX500.mdlx\-0.dds
+  method: copy
+  source: 
+  - name: remastered\obj\H_EX500.mdlx\-0.dds
+- name: remastered\obj\H_EX500.mdlx\-3.dds
+  method: copy
+  source: 
+  - name: remastered\obj\H_EX500.mdlx\-3.dds
+- name: remastered\obj\P_EX100.mdlx\-0.dds
+  method: copy
+  source: 
+  - name: remastered\obj\P_EX100.mdlx\-0.dds
+- name: remastered\obj\P_EX100.mdlx\-1.dds
+  method: copy
+  source: 
+  - name: remastered\obj\P_EX100.mdlx\-1.dds
